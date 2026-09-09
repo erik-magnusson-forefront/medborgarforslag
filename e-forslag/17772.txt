@@ -1,0 +1,15 @@
+﻿Heading: Test
+ID: 17772
+Sent in date: 2024-08-28 08:55
+Vote date: 
+Votes: 0
+Status: Avslag
+
+Description:
+Test
+
+Attached files:
+None
+
+Source URL:
+https://e-tjanster.are.se/forslag/show/17772
