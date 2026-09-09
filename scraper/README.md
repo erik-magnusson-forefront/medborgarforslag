@@ -1,8 +1,3 @@
-# Medborgarförslag
-
-Fler förslag: https://ffcg1se-my.sharepoint.com/shared?id=/personal/helena_foogde_forefront_se/Documents/%C3%A5re-kommun&listurl=/personal/helena_foogde_forefront_se/Documents
-
-
 # Are suggestions scraper
 
 Scrapes archived resident suggestions from Åre kommun and writes one UTF-8 `.txt` file per suggestion.
